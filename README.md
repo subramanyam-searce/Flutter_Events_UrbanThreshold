@@ -1,7 +1,7 @@
 
 # SMART VISITING CARD
 
-This application consists of features like User Login, Registration, scanning QR Code using Camera, and sending connection requests to LinkedIn application.
+This application consists of features like User Login, Registration, scanning QR Code using Camera, and viewing user profiles to LinkedIn application.
 
 
 
